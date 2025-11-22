@@ -15,3 +15,6 @@ soundfile
 tensorflow
 tqdm
 streamlit
+tf-nightly
+keras==2.11.0
+
