@@ -11,6 +11,6 @@ pandas
 protobuf
 scikit-learn
 soundfile
-tf-nightly
+tensorflow==2.11.0
 tqdm
 streamlit
