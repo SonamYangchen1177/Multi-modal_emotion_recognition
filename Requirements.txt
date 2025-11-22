@@ -1,21 +1,14 @@
-# IMPORTANT: Use Python 3.10 or 3.9 for TensorFlow compatibility. TensorFlow does NOT support Python 3.13 as of 2025. Run your Streamlit app in the same environment where you install these packages.
-audiomentations
-ipython
-joblib
-keras
-librosa
-matplotlib
-moviepy
+tensorflow==2.11.0
+keras==2.11.0
 numpy
-opencv-python
 pandas
-protobuf
+opencv-python
 scikit-learn
+librosa
+moviepy
+matplotlib
+streamlit
+audiomentations
 soundfile
-tensorflow
 tqdm
-<<<<<<< HEAD
-streamlit
-=======
-streamlit
->>>>>>> 0841a2c1e9235258317e2e56da6b849a47278b90
+joblib
